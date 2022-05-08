@@ -50,8 +50,8 @@ export function WidgetForm()
                )}
                 
 
-                <footer className="text-xl text-neutral-200">
-                  Feito por Alexandre/desenvovimentos/web
+                <footer className="text-xs text-neutral-400">
+                Feito com ♥ por <a className="underline underline-offset-1" href="#">Alexandre/dev</a>
                 </footer>
              </div>
 
