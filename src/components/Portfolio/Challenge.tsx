@@ -4,7 +4,7 @@ export function Challenge(){
         
         <div className="flex flex-col  items-center justify-center   text-left mt-8  ml-8 mr-8 border-4 border-brand-500 py-4 ">
            <h1 className="text-brand-500">Desafios deste Projeto</h1>
-           <p className=" ">__Vou começar contando desde quando criei meu primeiro Portifólio com html e css puro,achei que tinha ficado maximo,<br></br>
+           <p className="px-4 ">__Vou começar contando desde quando criei meu primeiro Portifólio com html e css puro,achei que tinha ficado maximo,<br></br>
                hoje eu olho e vejo que realmemte nâo é nen huma obra de arte mas serve para você comparar o quanto evoluiu,olhando <br></br>
                os Projetos de hoje e também as diferentes teclogias que vamos  agregando debaixo do nosso guarda chuva de soluçôes<br></br>
                durante a trajetoria de aprendizado e de Estudos; Vamos lá falar espesificamente deste projeto a principio eu construi<br></br>
