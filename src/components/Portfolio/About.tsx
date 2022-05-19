@@ -4,7 +4,7 @@ import fotos from "../../assetes/image/fotos.png";
 export function About() {
     return (
         <div className="mt-9 mb-6 px-10 flex space-x-10  gap-4 place-content-center">
-            <div className="py-0 w-[600px]  border-4 border-brand-500 rounded-md h-full">
+            <div className="py-0 w-[900px]  border-4 border-brand-500 rounded-md h-full">
                 <img src={fotos} />
             </div>
             <div className="mx-3 border-4 border-brand-500 px-6 py-2 rounded-md">
@@ -23,8 +23,6 @@ export function About() {
                     muito ativa com frequentes atualizaçoês e comércio bem aquecido para quem  programa com Laravel<br></br>
                     __E é claro outros conhecimentos básicos para um progamador como Git, GitHub, Bootstrap,e nesse projeto eu também estou trabalhando com Tailwind,
                     que é uma ferramenta que traz muita produtividade,estou a disposiçâo pelos meio de contato exitentes neste site.
-                   
-
                 </p>
             </div>
         </div>
