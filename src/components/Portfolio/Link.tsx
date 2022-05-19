@@ -17,7 +17,7 @@ export function Home() {
        
       </div>
 
-      <div className="ml-[500px] mb-4">
+      <div className="ml-4 mb-4">
         <p>Like {count}</p>
         <button onClick={()=> setCount(count + 1)}>
            <ThumbsUp className="w-6 h-6" bg-zinc-900/>
