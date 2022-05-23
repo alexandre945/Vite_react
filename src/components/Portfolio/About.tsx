@@ -8,7 +8,7 @@ export function About() {
                 <img src={fotos} />
             </div>
             <div className="mx-3 border-4 border-brand-500 px-6 py-2 rounded-md">
-                <h1 className="text-center py-4">Sobre</h1>
+                <h1 className="text-center py-4  ">Sobre</h1>
                 <p className="">Olá meu nome é Alexandre vou falar um pouco da minha trajetoría de estudos no mundo da progamaçâo
                    ,começei com Gustavo Guanabara conhecido da galera iniciante Ensina HTML, CSS, JavaScript,depois LNW um evento da 
                    Rocketseat para quem nâo conhece ele é uma Plataforma de Educaçâo em teclonogia,na ocasiâo o projeto foi uma Plataforma 
