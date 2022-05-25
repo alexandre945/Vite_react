@@ -12,9 +12,9 @@ export function Home() {
 
     <>
       <div className="flex flex-col-2 ms:flex-1">
-        <div className="m-0">
+        <div className="">
 
-          <img src={foto} alt="foto.png " />
+          <img src={foto} alt="foto.png"className="h-auto border-2 rounded-3xl mt-6 ml-8 border-brand-500 py-2 pb-0 " />
 
         </div>
 
@@ -27,12 +27,12 @@ export function Home() {
       </div>
 
 
-      <div className="ml-4 mb-4">
+      {/* <div className="ml-4 mb-4">
         <p>Like {count}</p>
         <button onClick={() => setCount(count + 1)}>
           <ThumbsUp className="w-6 h-6" bg-zinc-900 />
         </button>
-      </div>
+      </div> */}
 
     </>
 
