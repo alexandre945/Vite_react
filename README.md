@@ -3,6 +3,9 @@
 + Duração de 5 dias
 + Aplicado por Rocketseat
 
+### STATUS
++ Em desenvolvimento
+
 ![vite](https://user-images.githubusercontent.com/69020659/170884231-ee589935-d4a0-47be-a142-8ddfdd7d518e.png)
 
 ## DESCRIÇÃO
