@@ -3,6 +3,8 @@
 + Duração de 5 dias
 + Aplicado por Rocketseat
 
+![vite](https://user-images.githubusercontent.com/69020659/170884231-ee589935-d4a0-47be-a142-8ddfdd7d518e.png)
+
 ## DESCRIÇÃO
 + O prjeto tem como objetivo que o  usuarío possa dar o seu feedback sobre o site em que esta acesssando
 + Tendo no seu front-end em React e no back-end uma Api Nodejs que recebe os dados do front e envia para o E-Mail
